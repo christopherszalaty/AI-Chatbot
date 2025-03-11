@@ -24,7 +24,8 @@ model_name = col2.selectbox(
     [
         "llama-3.3-70b-versatile", 
         "deepseek-r1-distill-llama-70b", 
-        "llama-3.2-90b-vision-preview"
+        "llama-3.2-90b-vision-preview",
+        "qwen-qwq-32b"
     ]
 )
 
